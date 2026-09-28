@@ -1,0 +1,6 @@
+{
+  "name": "Prévision Paie",
+  "description": "Calculateur intelligent et prévision de paie agricole par quinzaine hors-ligne",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
